@@ -1,10 +1,3 @@
-Got it 👍
-Here’s a **simple, clear README.md** you can add to your repository so people immediately understand what your project does.
-
-You can copy-paste this directly into a `README.md` file.
-
----
-
 # Function Call Stack Visualizer (Python)
 
 This project is a simple Python program that **visualizes how the function call stack works**.
